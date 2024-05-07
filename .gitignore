@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+.env
+
+# Ancillary Files
+01 - Ingest_Docs_Pinecone - NOTEBOOK.ipynb
+app_raw_V1.py
+
+other/
