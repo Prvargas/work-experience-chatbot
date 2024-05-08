@@ -18,7 +18,9 @@ def run_llm(query: str, chat_history: List[Dict[str, Any]] = []):
 
     chat = ChatOpenAI(
         verbose=True,
+        model= "gpt-4-0125-preview",  #"gpt-3.5-turbo",
         temperature=0,
+
     )
 
     qa = ConversationalRetrievalChain.from_llm(

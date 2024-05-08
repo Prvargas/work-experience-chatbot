@@ -7,5 +7,9 @@ __pycache__/
 # Ancillary Files
 01 - Ingest_Docs_Pinecone - NOTEBOOK.ipynb
 app_raw_V1.py
+*.ipynb
+*.pkl
 
+# Folders to ignore
 other/
+tutorial_docs/

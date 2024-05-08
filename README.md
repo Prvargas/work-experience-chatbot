@@ -8,7 +8,11 @@ The "Work Experience Chatbot" is a dynamic project designed to assist hiring man
 The main objective of this project is to create an interactive chatbot that provides detailed information about a candidate's professional background. This tool is intended to make the screening process more efficient for recruiters and hiring managers by delivering pertinent information through a conversational interface.
 
 ## Features
+![UI Screenshot](imgs/04-UI_Screenshot_1.png)
+
+
 - **Interactive Chat Interface:** Users can ask questions and receive information about the candidate's work experience, skills, and educational background.
+
 - **Custom Queries Handling:** The chatbot is equipped to handle a variety of questions, ensuring that users can get the specific information they are looking for.
 - **User-friendly Dashboard:** Built with Streamlit, the dashboard offers a clean and intuitive user interface for interacting with the chatbot.
 
